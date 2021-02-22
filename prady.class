@@ -2,5 +2,7 @@ class prady {
 public static void main (string[] args)
 {
 system.out.println("This is the program created by pramod" );
+system.out.println("This is the print fr commit operations");
 }
 }
+
