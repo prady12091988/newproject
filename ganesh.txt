@@ -1,8 +1,9 @@
 class ganesh {
+
 public static void main (String [] args)
 {
 system.out.println("This is pramod operation on devops")
 }
 
 THIS IS MY PRAMOD NOW CHANGE PROGRAM
-
+TODAY IS THIRD TEST MATCH BETWN IND VS AHEMEDABAD 
